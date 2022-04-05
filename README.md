@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kelzem1
-- 👀 I’m interested in  el desarrollo web y todo lo que tenga que ver con la programacion 
-- 🌱 I’m currently learnin s desarrollo movil
+- 👀 I’m interested in web development (Js, React.js, Node.js)
+- 🌱 I’m currently learnin more about web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  mediante mi twitter @kelzem o correo  kelzem@outlook.es
+- 📫 How to reach me: my twitter @kelzem or my kelzem@outlook.es
 
