@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Kelzem1
-- 👀 I’m interested in web development (Js, React.js, Node.js)
+- 👀 REACT || JAVASCRIPT || Tailwincss || PYTHON
