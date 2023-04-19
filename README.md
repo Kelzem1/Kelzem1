@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Kelzem1
+- 👋 Hi, I’m @Kelzem1. FRONT-END DEVELOPER
 - 👀 REACT || JAVASCRIPT || NODEJS || PYTHON
