@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Kelzem1. FRONT-END DEVELOPER
-- 👀 REACT || JAVASCRIPT || NODEJS || PYTHON
+- 👋 Hi, I’m Rodolfo Rolon "@Kelzem1". WEB DEVELOPER
+- 👀 JavaScript || ReactJs || Next.Js || TailwindCss
