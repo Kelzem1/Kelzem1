@@ -8,7 +8,6 @@
 
 <h2 align="left">About me</h2>
 I'm a self taught developer.
-###
 
 ###
 
