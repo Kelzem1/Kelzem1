@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rodolfo Rolon and I'm a web developer, from Spain</p>
+<p align="left">My name is Rodolfo Rolon and I'm a developer, from Spain</p>
 
 ###
 
